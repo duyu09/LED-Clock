@@ -1,0 +1,31 @@
+/* Nothing here required */
+
+body{
+    background-color:#bfc51e;
+    margin:0px;
+    text-align: center;
+}
+sup{
+    font-size: 55%;
+}
+span{
+    display:inline-block;
+    position:relative;
+    margin:10px;
+    padding:4px;
+    width:500px;
+    line-height: 18px;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    cursor: default;
+    background-color:#ee0000;
+    border-radius:5px;
+    font: 26px verdana;
+    color: #fff; 
+    text-align: center;
+}
+p {
+margin: 5px;
+}
